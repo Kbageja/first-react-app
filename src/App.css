@@ -1,0 +1,17 @@
+
+.kg-row{
+  margin:5px;
+  padding: 7px;
+}
+.kg-rows{
+  margin:15px;
+  text-align: center;
+  justify-content: center;
+  
+}
+.body{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow ', sans-serif;
+}
+span{
+  font-size: 30px;
+}
